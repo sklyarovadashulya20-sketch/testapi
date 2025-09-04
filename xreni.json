@@ -1,5 +1,5 @@
 {
-  name: "Dasha",
-  age: 20,
-  is TheBestPeople: True
+  name: "Evgen",
+  age: 25,
+  is TheBestTeacher: True
 }

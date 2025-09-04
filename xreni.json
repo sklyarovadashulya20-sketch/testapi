@@ -1,5 +1,5 @@
 {
   name: "Evgen",
-  age: 25,
-  is TheBestTeacher: True
+  age: "25",
+  isTheBestTeacher: True
 }
